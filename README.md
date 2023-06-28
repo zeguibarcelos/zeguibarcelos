@@ -1,16 +1,17 @@
+#Bem-vindo!
 Olá! Sou um profissional de programação e design com experiência em diversos aspectos do desenvolvimento de software. Aqui estão alguns dos meus destaques:
 
-## Programação e Boas Práticas de Código
+# Programação e Boas Práticas de Código
 - Experiência sólida em desenvolvimento orientado a testes (TDD) e testes automatizados.
 - Conhecimento em padrões de design e boas práticas de programação para garantir um código limpo e de qualidade.
 - Capacidade de criar arquiteturas de software escaláveis e bem estruturadas.
 
-## Desenvolvimento de Aplicações
+# Desenvolvimento de Aplicações
 - Experiência em trabalhar com frameworks como **React** e **Node.js** para criar interfaces de usuário interativas e eficientes.
 - Conhecimento em desenvolvimento de aplicações Windows Forms com **C#**.
 - Familiaridade com APIs RESTful, incluindo a **API do Mercado Pago Developers**.
 
-## Linguagens e Tecnologias
+# Linguagens e Tecnologias
 - Experiência em **Java**, **C++**, **C#**, **JavaScript**, **PHP** e **TypeScript**.
 - Desenvolvimento web utilizando **HTML5**, **CSS3** e **JavaScript**.
 - Familiaridade com linguagens de banco de dados SQL, incluindo **MSSQL**, **SQLite**, **MySQL** e **Azure SQL**.
