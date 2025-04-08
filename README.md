@@ -1,34 +1,46 @@
-# Bem-vindo!
-Olá! Sou um profissional de programação e design com experiência em diversos aspectos do desenvolvimento de software. Aqui estão alguns dos meus destaques:
+<h2 align="left">Hello! My name is José and I'm a System Developer, from Brazil.</h2>
 
-# Programação e Boas Práticas de Código
-- Experiência sólida em desenvolvimento orientado a testes (TDD) e testes automatizados.
-- Conhecimento em padrões de design e boas práticas de programação para garantir um código limpo e de qualidade.
-- Capacidade de criar arquiteturas de software escaláveis e bem estruturadas.
+###
 
-# Desenvolvimento de Aplicações
-- Experiência em trabalhar com frameworks como **React** e **Node.js** para criar interfaces de usuário interativas e eficientes.
-- Conhecimento em desenvolvimento de aplicações Windows Forms com **C#**.
-- Familiaridade com APIs RESTful, incluindo a **API do Mercado Pago Developers**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeguibarcelos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeguibarcelos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# Linguagens e Tecnologias
-- Experiência em **Java**, **C++**, **C#**, **JavaScript**, **PHP** e **TypeScript**.
-- Desenvolvimento web utilizando **HTML5**, **CSS3** e **JavaScript**.
-- Familiaridade com linguagens de banco de dados SQL, incluindo **MSSQL**, **SQLite**, **MySQL** e **Azure SQL**.
+###
 
-Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias. Se você procura um profissional comprometido, capaz de contribuir para projetos desafiadores, não hesite em entrar em contato. Estou pronto para enfrentar novos desafios e fazer parte de equipes de desenvolvimento bem-sucedidas.
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQGRdp5S9kCrEQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722729462264?e=1749686400&v=beta&t=XYZK7jgy1lx-oGA6kY3JhuDYSaX8_RirO7ZqXd_J3AA"  />
 
-<!--
-**zeguibarcelos/zeguibarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jose-guilherme-barcelos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/zeguibarcelos/zeguibarcelos/output/snake.svg" alt="Snake animation" />
+
+###
