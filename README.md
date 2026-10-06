@@ -3,10 +3,6 @@
 <h2 align="left">Hello! My name is José and I'm a System Developer, from Brazil. 🇧🇷</h2>
 
 <p align="left">
-  <em>Turning coffee into code & knowledge ⚡</em>
-</p>
-
-<p align="left">
   🔭 I’m currently working on <strong>System Development</strong><br>
   📚 I’m constantly studying to improve my stack and learn new technologies<br>
   💡 Passionate about clean code, problem-solving, and continuous evolution
